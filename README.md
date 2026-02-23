@@ -149,4 +149,5 @@ DIVIDE([Total Revenue], [Won Deals])
 
 
 ## Dashboard preview
-[![CRM Dashboard](Project-CRM Analysis/Dashboard CRM.png)](Project-CRM Analysis/Dashboard CRM.png))
+![CRM_Sales_Perffomance_Analysis](assets/Dashboard_CRM.png)
+
